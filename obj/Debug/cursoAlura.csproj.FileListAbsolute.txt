@@ -1,0 +1,16 @@
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\bin\Debug\cursoAlura.exe.config
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\bin\Debug\cursoAlura.exe
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\bin\Debug\cursoAlura.pdb
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.csproj.AssemblyReference.cache
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_helloWorld.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.Properties.Resources.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.csproj.GenerateResource.cache
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.exe
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.pdb
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_demostrationKey.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_passwordValidation.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_mask.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_validationCPF.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_messageBox.resources
+D:\DOCUMENTOS\IMPORTANTE\projetos\C#\cursoAlura\cursoAlura\obj\Debug\cursoAlura.frm_principal.resources
